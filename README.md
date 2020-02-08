@@ -1,2 +1,3 @@
-# Learning-Java
-This is all the steps I took to learn Java from beginner level.
+# Java 101
+Learning Java.
+From a to z personal development
